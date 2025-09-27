@@ -182,7 +182,7 @@ list.InsertFirst(21);
 list.InsertFirst(11);
 
 list.Display();
-console.log("\n\nTotal No.of Node is ->", list.Count());
+console.log("\nTotal No.of Node is ->", list.Count());
 
 list.InsertLast(121);
 list.Display();
